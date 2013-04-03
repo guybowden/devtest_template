@@ -6,7 +6,7 @@ This is a stub project to get started quickly for the developer test
 
 We would like you to create a very simple JSON REST API for a "product", plus a single page app to **display a list** of products and **add** products.
 
-The product model should include at least a name and a description - it can optionally include anything you like to make it more product like - (eg. images)
+The product model should include at least a name and a description.
 
 **This task should take no more than 2 hours to complete**
 
